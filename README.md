@@ -4,8 +4,10 @@ This is a very simple example based on [Getting Started With GraphQL.js](http://
 
 The whole thing is just:
 
-`npm init`
-`npm install graphql --save`
+```
+npm init
+npm install graphql --save
+```
 
 Create a `server.js`:
 
@@ -38,6 +40,8 @@ And now you can:
 
 Which should output:
  
-`{ data: { hello: 'Hello world!' } }`
+```javascript
+{ data: { hello: 'Hello world!' } }
+```
  
 🎉
