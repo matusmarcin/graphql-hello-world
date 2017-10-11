@@ -1,0 +1,17 @@
+{
+  "name": "@matusmarcin/graphql-hello-world",
+  "version": "1.0.0",
+  "description": "Simple GraphQL Hello World example.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Matus Marcin <matus.marcin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.11.7"
+  }
+}
